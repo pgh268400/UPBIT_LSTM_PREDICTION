@@ -1,0 +1,2 @@
+# UPBIT_LSTM_PREDICTION
+업비트 시계열 데이터 LSTM 예측
