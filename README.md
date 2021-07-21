@@ -9,3 +9,6 @@ LSTM을 활용하여 업비트 시계열 데이터를 학습시킨후
 1step은 몇분봉 데이터로 학습시켰냐에 따라 달라집니다  
 ex) 1일봉 데이터로 학습시 => 다음 30일까지 예측  
     1분봉 데이터로 학습시 => 다음 30분까지 예측
+
+![image](https://user-images.githubusercontent.com/31213158/126512312-d27edff5-79ac-44ff-87ce-7f0dec113c94.png)
+
